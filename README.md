@@ -1,1 +1,1 @@
-# simpleNewspaper
+# News
